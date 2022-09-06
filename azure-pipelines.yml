@@ -12,10 +12,10 @@ variables:
   azureSubscription: '063aa572-0d29-4e62-adfa-769b28834e63'
 
   # Web app name
-  webAppName: SpringBootVeenaTest
+  webAppName: 'SpringBootVeenaTest'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'test'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
